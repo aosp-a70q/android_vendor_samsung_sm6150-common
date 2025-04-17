@@ -668,6 +668,5 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     libkeymaster_helper \
-    libskeymaster4device \
     vendor.qti.voiceprint-V1.0-java \
     vendor.samsung.hardware.thermal@1.0-manifest
